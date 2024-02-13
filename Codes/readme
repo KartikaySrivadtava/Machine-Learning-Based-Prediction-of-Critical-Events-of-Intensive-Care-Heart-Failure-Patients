@@ -1,0 +1,35 @@
+--This is the readme file which provides the description of the steps to be followed in order to reach the results of the thesis:
+Please note that all the files listed here have been created by assuming all the files required are in the default directly, the user needs to change the directory and variable names according to their environment.
+
+1. First find the heart failure patients based on the ICD-9 codes and related infromation like gender etc.:
+Find_Heart_Failure_Patients(Jupyter file)
+
+2. Find charted events for these heart failure patients:
+Create_Chart_Events(Jupyter file)
+
+3. Create death label and one hot encoding for categorical values:
+DOD_Label(Jupyter file)
+
+4. Analyze the dataframe created till now for missing values and implement filling techniques:
+Fill_Height_Weight_Vitals(Jupyter file)
+
+5. Imputaion, Outlier removal and Exploratory data analysis:
+Final_EDA(Jupyter file)
+
+6. Machine learning evaluation, hyperparameter tuning and testing:
+ML_Evaluation(Jupyter file)
+
+7. Evaluate feature importance using SHAP:
+SHAP(Jupyter file)
+
+8. Table1 to check importance of features:
+Table1(Jupyter file)
+
+9. Software that can be used as patient monitoring system:
+Software(Jupter file)
+
+Sample data that can be handled by this software:
+
+SUBJECT_ID, HADM_ID, GROUP_ID, REL_DAY, Features, Output_Label
+
+Here the number of columns in features can vary.
