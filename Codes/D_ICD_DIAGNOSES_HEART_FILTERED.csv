@@ -1,0 +1,11 @@
+ICD9_CODE,SHORT_TITLE,LONG_TITLE
+4281,Left heart failure,Left heart failure
+42821,Ac systolic hrt failure,Acute systolic heart failure
+42822,Chr systolic hrt failure,Chronic systolic heart failure
+42823,Ac on chr syst hrt fail,Acute on chronic systolic heart failure
+42831,Ac diastolic hrt failure,Acute diastolic heart failure
+42832,Chr diastolic hrt fail,Chronic diastolic heart failure
+42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+42841,Ac syst/diastol hrt fail,Acute combined systolic and diastolic heart failure
+42842,Chr syst/diastl hrt fail,Chronic combined systolic and diastolic heart failure
+42843,Ac/chr syst/dia hrt fail,Acute on chronic combined systolic and diastolic heart failure
